@@ -27,7 +27,7 @@
 
 ### 📈 Estatísticas  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ChRisTian-V&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChRisT1an-V&theme=tokyonight)](https://git.io/streak-stats)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChRisTian-V&theme=react-dark)  
 
