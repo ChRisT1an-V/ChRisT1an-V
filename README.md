@@ -1,17 +1,11 @@
-# ​​👋🏾​ ChRisTian-V
+# ​​​✌🏿​ ChRisTian-V
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5CF7FF&size=22&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Christian+Vinicius;Desenvolvedor+Full+Stack;Python+|+JavaScript+|+IA)](https://git.io/typing-svg)
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="right" width="200">
 
-💻 Desenvolvedor **Full Stack** em formação  
-🎯 Focado em **Python** e **JavaScript**  
-🤖 Explorando o universo da **Inteligência Artificial**  
-🚀 Sempre em busca de aprender e criar projetos inovadores  
-
----
-
 ### ​​📶 Tecnologias e Ferramentas  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flet](https://img.shields.io/badge/Flet-02569B?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,10 +17,16 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ---
 
 ### 📈 Estatísticas  
+![Metrics](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.reactions.svg)
+
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChRisTian-V&theme=react-dark)  
 
