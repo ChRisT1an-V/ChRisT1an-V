@@ -24,7 +24,7 @@
 ---
 
 ### 📈 Estatísticas  
-![Metrics](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.reactions.svg)
+
 
 
 
