@@ -13,6 +13,7 @@
 ![API](https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![API](https://img.shields.io/badge/API-005571?style=for-the-badge)
 ![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
