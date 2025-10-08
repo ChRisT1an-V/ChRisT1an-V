@@ -30,17 +30,15 @@
 
 ### 📈 Estatísticas  
 
+# Estatísticas
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChRisTian-V&theme=tokyonight)](https://git.io/streak-stats)
 
 
+## 🚀 Onde me encontrar
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChRisTian-V&theme=react-dark)  
-
----
-
-### 📫 Onde me encontrar  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-vinicius-285a78243/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christianviniolisant@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/christian-vinicius-285a78243/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christianviniolisant@gmail.com)
 
 ---
 
