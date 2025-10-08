@@ -13,6 +13,10 @@
 ![API](https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![API](https://img.shields.io/badge/API-005571?style=for-the-badge)
 ![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-292929?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -28,11 +32,13 @@
 
 ---
 
-### 📈 Estatísticas  
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 
-# Estatísticas
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChRisT1an-V&theme=github_dark" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChRisT1an-V&theme=github_dark" height="180em" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ChRisTian-V&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ## 🚀 Onde me encontrar
