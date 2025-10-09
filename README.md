@@ -31,6 +31,15 @@
 
 
 ---
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="animação decorativa" width="100%" />
+</p>
+
+
+
+
+
+
 
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
@@ -41,12 +50,28 @@
 
 
 
-## 🚀 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/christian-vinicius-285a78243/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christianviniolisant@gmail.com)
+## 📬​ Onde me encontrar
+
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/christian-vinicius-285a78243/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="80" height="80" />
+  </a>
+  <a href="https://www.instagram.com/c._h_r_i_s/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="80" height="80" />
+  </a>
+  <a href="https://wa.me/5511986839831" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="WhatsApp" width="80" height="80" />
+  </a>
+</p>
+
+
+
 
 ---
 
 ![Visitors](https://komarev.com/ghpvc/?username=ChRisTian-V&color=blue)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="animação decorativa" width="100%" />
+</p>
