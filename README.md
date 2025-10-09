@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5CF7FF&size=22&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Christian+Vinicius;Desenvolvedor+Full+Stack;Python+|+JavaScript+|+IA)](https://git.io/typing-svg)
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="right" width="200">
+
 <br>
 
 ### ​​📶 Tecnologias e Ferramentas  
@@ -29,6 +30,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 <br>
 <br>
 
@@ -39,7 +41,9 @@
 
 <br>
 <br>
+
 <h2 align="center">📊 Estatísticas do GitHub</h2>
+
 <br>
 
 <p align="center">
